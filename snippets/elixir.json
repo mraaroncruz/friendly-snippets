@@ -122,26 +122,6 @@
       "end"
     ]
   },
-  "doc": {
-    "prefix": "doc",
-    "body": [
-      "@doc \"\"\"",
-      "$0",
-      "\"\"\""
-    ]
-  },
-  "doc s": {
-    "prefix": "docs",
-    "body": [
-      "@doc ~S\"\"\"",
-      "$0",
-      "\"\"\""
-    ]
-  },
-  "doc false": {
-    "prefix": "docf",
-    "body": "@doc false"
-  },
   "moduledoc": {
     "prefix": "mdoc",
     "body": [
